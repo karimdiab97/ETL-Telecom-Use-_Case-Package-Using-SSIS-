@@ -11,3 +11,7 @@ In the realm of telecom, a critical challenge arises: the continuous influx of t
 4. **Auditing and Data Quality Assurance:** To maintain data integrity, I've incorporated auditing mechanisms into the data flow package. This helps in identifying and addressing issues related to missing values and incorrect data types, ensuring that the data remains accurate and reliable.
 
 In essence, this ETL Telecom Use Case Package using SSIS streamlines the processing of critical transaction data, allowing the telecom company to make informed decisions and drive business growth. It ensures that data is not only collected but also transformed, validated, and stored efficiently.
+
+![2](https://github.com/karimdiab97/ETL-Telecom-Use-_Case-Package-Using-SSIS-/assets/101432419/803804a9-0b92-49ab-877d-620e2d24f78b)
+![1](https://github.com/karimdiab97/ETL-Telecom-Use-_Case-Package-Using-SSIS-/assets/101432419/bd13957e-eec8-462a-8e46-48fd51450fea)
+![3](https://github.com/karimdiab97/ETL-Telecom-Use-_Case-Package-Using-SSIS-/assets/101432419/ef83c9d3-66b5-4e7a-bd1d-72090340187f)
